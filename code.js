@@ -7,7 +7,7 @@ function filterObject(obj, callback) {
 let filtersDifficulty = -1;
 let filtersPremium = false;
 
-fetch("https://pzpl.xyz/codewell/filters.json")
+fetch("https://cdn.jsdelivr.net/gh/programistazpolski/codewell-filters@master/filters.json")
 	.then(resp => resp.json())
 	.then(data => {
 		document.querySelector(".challenges .header").outerHTML += `<h4>Filter challenges</h4>
