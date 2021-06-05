@@ -1,0 +1,54 @@
+{
+	"608a7a859691700015db16c5": {
+		"difficulty": 1,
+		"premium": false
+	},
+	"608a7e639691700015db16d1": {
+		"difficulty": 1,
+		"premium": false
+	},
+	"608ac420650dff001599e8ec": {
+		"difficulty": 0,
+		"premium": false
+	},
+	"608aca51650dff001599e8f9": {
+		"difficulty": 1,
+		"premium": false
+	},
+	"608bbe67e0984a001540d79b": {
+		"difficulty": 1,
+		"premium": false
+	},
+	"608bc18ee0984a001540d7a6": {
+		"difficulty": 0,
+		"premium": false
+	},
+	"608d9565747bad001532bd64": {
+		"difficulty": 0,
+		"premium": false
+	},
+	"608d9a7d747bad001532bd70": {
+		"difficulty": 1,
+		"premium": false
+	},
+	"608d9d5c747bad001532bd7c": {
+		"difficulty": 1,
+		"premium": false
+	},
+	"609f74e13167fa10b79b7b9b": {
+		"difficulty": 3,
+		"premium": true
+	},
+	"60a3b1872d6dd1109eb9e0ef": {
+		"difficulty": 2,
+		"premium": true
+	},
+	"60a8db35203a0e6180bb5035": {
+		"difficulty": 0,
+		"premium": false
+	},
+	"60b3ea4c0cc72310b5a2494d": {
+		"difficulty": 1,
+		"premium": false
+	}
+}
