@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "Codewell Filter",
+	"version": "1.0",
+	"description": "Adds a challenge filter to codewell.",
+	"content_scripts": [
+		{
+			"matches": [
+				"*://*.codewell.cc/*"
+			],
+			"js": [
+				"h.js"
+			]
+		}
+	],
+	"permissions": [
+		"*://*.codewell.cc/*"
+	]
+}
